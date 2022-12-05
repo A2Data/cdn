@@ -1,0 +1,26 @@
+.jack_style {
+    font-size: 12px;
+    font-family: Arial ;
+    border-collapse: collapse;
+    border: 1px solid silver;
+    width: 100% !important;
+    height: 100px !important;
+}
+
+.jack_style td, th {
+    padding: 3px;
+}
+
+.jack_style tr:nth-child(even) {
+    background: #E0E0E0 ;
+}
+
+.jack_style tr:hover {
+    background: silver;
+    cursor: pointer;
+}
+.jack_bt{
+    font-family: 微软雅黑;
+    font-size: 13px;
+    color: #ffffff;
+}
