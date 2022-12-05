@@ -1,20 +1,20 @@
 /* includes alternating gray and white with on-hover color */
 .jack_style {
     
-    font-size: 2pt !important;
-    font-family: Arial !important;
-    border-collapse: collapse !important;
-    border: 1px solid silver !important;
-    width: 100% !important;
-    height: 100px !important;
+    font-size: 2pt;
+    font-family: Arial ;
+    border-collapse: collapse;
+    border: 1px solid silver;
+    width: 100% important!;
+    height: 100px important!;
 }
 
 .jack_style td, th {
-    padding: 3px !important;
+    padding: 3px;
 }
 
 .jack_style tr:nth-child(even) {
-    background: #E0E0E0 !important;
+    background: #E0E0E0 ;
 }
 
 .jack_style tr:hover {
